@@ -1,1 +1,1 @@
-# terraform-azure-auto
+# azure terraform
